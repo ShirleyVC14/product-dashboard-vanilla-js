@@ -59,12 +59,12 @@ header {
 .product h3 {
   margin: 10px 0;
   font-size: 1rem;
-  color: #222;
+  color: #161515;
 }
 
 /* Product price */
 .product p {
   font-weight: bold;
-  color: #007BFF;
+  color: #1f88f8;
   font-size: 1rem;
 }
